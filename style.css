@@ -213,7 +213,7 @@ button {
   .nav__logo {
     margin: 0 auto;
     position: absolute;
-    top: 35rem;
+    top: 30rem;
     font-size: 2rem;
   }
   .nav__search {
@@ -306,6 +306,11 @@ button {
 @keyframes scroll {
   from {
     transform: translateY(1rem);
+  }
+}
+@media (max-width: 25rem) {
+  .hero__heading {
+    transform: translateX(1rem);
   }
 }
 
