@@ -213,7 +213,7 @@ button {
   .nav__logo {
     margin: 0 auto;
     position: absolute;
-    top: 16rem;
+    top: 10rem;
     font-size: 2rem;
   }
   .nav__search {
