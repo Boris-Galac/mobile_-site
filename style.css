@@ -629,3 +629,10 @@ input[type='email']:focus {
     text-align: center;
   }
 }
+@media (max-width: 400px) {
+  .footer__socials div:nth-last-child(1) {
+    aspect-ratio: 0;
+    padding: 1.5rem;
+    border-radius: none;
+  }
+}
