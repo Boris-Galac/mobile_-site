@@ -487,7 +487,7 @@ button {
   cursor: pointer;
 }
 input[type='email'] {
-  padding: 0 1rem;
+  padding: 0.6rem;
   border-radius: 0.5rem 0 0 0.5rem;
   transition: all 0.3s ease-in-out;
 }
@@ -563,7 +563,6 @@ input[type='email']:focus {
     justify-content: center;
     margin-right: 2rem;
   }
-
   .footer__col-2 {
     margin: auto;
     text-align: center;
