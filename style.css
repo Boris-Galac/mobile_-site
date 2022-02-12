@@ -635,4 +635,7 @@ input[type='email']:focus {
     padding: 1.5rem;
     border-radius: none;
   }
+  .footer__row-2 .submit {
+    padding: 0.9rem 1rem;
+  }
 }
